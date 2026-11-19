@@ -1,0 +1,17 @@
+﻿Sheet,Column,Description / grain
+Securities,SecurityID,Field in Securities; one row: Securities record
+Securities,AssetClass,Field in Securities; one row: Securities record
+Securities,Sector,Field in Securities; one row: Securities record
+Securities,Currency,Field in Securities; one row: Securities record
+Portfolios,PortfolioID,Field in Portfolios; one row: Portfolios record
+Portfolios,RiskProfile,Field in Portfolios; one row: Portfolios record
+Portfolios,MaxSingleHoldingPct,Field in Portfolios; one row: Portfolios record
+Portfolios,EquityLimitPct,Field in Portfolios; one row: Portfolios record
+Holdings,Month,Field in Holdings; one row: Holdings record
+Holdings,PortfolioID,Field in Holdings; one row: Holdings record
+Holdings,SecurityID,Field in Holdings; one row: Holdings record
+Holdings,MarketValueINR,Field in Holdings; one row: Holdings record
+Holdings,CostINR,Field in Holdings; one row: Holdings record
+Benchmarks,Month,Field in Benchmarks; one row: Benchmarks record
+Benchmarks,RiskProfile,Field in Benchmarks; one row: Benchmarks record
+Benchmarks,BenchmarkReturnPct,Field in Benchmarks; one row: Benchmarks record
